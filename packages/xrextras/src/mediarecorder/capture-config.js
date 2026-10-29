@@ -3,7 +3,7 @@
 const currentConfig = {
   enableEndCard: true,
   footerImageUrl:
-    require('../almosttheremodule/poweredby-horiz-white.svg'),
+    require('../almosttheremodule/ramjam_logo.png'),
 }
 
 const internalConfig = {}
